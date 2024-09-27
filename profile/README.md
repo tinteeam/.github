@@ -12,3 +12,7 @@ Hi we are the tinteeam
 -->
 # goals
 our goal is to expand the projects that randomusert is creating like the tin os project
+
+
+# projects
+some projects under this organization are made in school. for example https://github.com/tinteeam/pwm , https://github.com/tinteeam/rbg and https://github.com/tinteeam/trafic-lights
