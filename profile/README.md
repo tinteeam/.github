@@ -1,5 +1,5 @@
 ## tinteeam here 👋
-Hi we are the tinteeam
+Hi we are the tinteeam. we create Minecraft Mods and modpacks with also other things.
 <!--
 
 **Here are some ideas to get you started:**
